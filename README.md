@@ -30,3 +30,10 @@ Iniciamos el servidor
 php artisan serve
 
 Y accedemos al servidor con esta direccion http://localhost:8000
+
+
+
+
+EL usuario admin es con el correo pablo@ada.es y la contraseña laravel
+
+Los demas usuarios creados por la seeder, tienen un correo aleatorio y de contraseña hola
