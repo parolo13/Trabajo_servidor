@@ -2,6 +2,10 @@
 
 Pasos para la instalacion
 
+Nos movemos al proyecto y abrimos la consola
+
+cd (ruta donde este guardado el proyecto)
+
 Instalamos composer
 
 composer install
